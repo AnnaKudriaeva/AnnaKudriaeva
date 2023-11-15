@@ -2,7 +2,7 @@
 
 ### Connect with me:
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnnaKudriaeva) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anna.kudriaeva@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/-Discord-purple?style=flat&logo=Discord&logoColor=white)](mailto:annemona)
+[![Discord Badge](https://img.shields.io/badge/-Discord-purple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/1114648307403329666/)
 
 <br />
 
